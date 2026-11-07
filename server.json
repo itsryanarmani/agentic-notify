@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.pooriaarab/agentic-notify",
+  "name": "io.github.itsryanarmani/agentic-notify",
   "description": "Notifications for humans and agents: in-app inbox, webhook and email delivery.",
   "version": "0.6.3",
   "repository": {
